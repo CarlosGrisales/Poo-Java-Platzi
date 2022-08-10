@@ -7,7 +7,17 @@ class main {
         mydoctor.name = "carlos grisales";
         mydoctor.speciality = "Cardiologo";
 
+
       mydoctor.showname();
+
+      uimenu.showMenu();
+
+
+      
+
+     
+
+   
     
 
     }
